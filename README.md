@@ -14,3 +14,5 @@ miPrimerRepositorio
 * pasta
 * pure de papas
 * milanesas
+* empanadas
+* hamburguesas
