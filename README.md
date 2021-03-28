@@ -7,3 +7,4 @@ miPrimerRepositorio
 * sopa
 * papas fritas
 * asado
+* tarta de jamon y queso
