@@ -9,3 +9,6 @@ miPrimerRepositorio
 * asado
 * tarta de jamon y queso
 * canelones
+* tortilla
+* chivito
+* pasta
