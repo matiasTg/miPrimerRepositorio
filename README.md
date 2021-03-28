@@ -8,3 +8,4 @@ miPrimerRepositorio
 * papas fritas
 * asado
 * tarta de jamon y queso
+* canelones
