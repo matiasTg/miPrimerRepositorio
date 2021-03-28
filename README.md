@@ -16,3 +16,5 @@ miPrimerRepositorio
 * milanesas
 * empanadas
 * hamburguesas
+* panchos 
+* desayuno
